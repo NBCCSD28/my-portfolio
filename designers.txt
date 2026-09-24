@@ -1,9 +1,0 @@
-DESIGN TEAM
-
-Sara Lopez
-	Role: UI Designer
-	Email: sara@example.com
-
-Sean McDonald:
-	Role: UX Designer
-	Email: seanm@microsoft.com
