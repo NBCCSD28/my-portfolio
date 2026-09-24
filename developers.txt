@@ -6,5 +6,4 @@ Priya Nair
 
 Sean McGregor
 	Role: C# lover
-	Email: sean@microsoft.comhi 
-ECHO is on.
+	Email: sean@microsoft.com
